@@ -1,0 +1,11 @@
+spring:
+  datasource:
+    url: jdbc:mysql://localhost:3306/hello_jpa
+    username: root
+    password: Winsen15!!!!
+
+jpa:
+  hibernate:
+    ddl_auto: update
+
+  show-sql: true
